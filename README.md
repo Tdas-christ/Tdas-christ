@@ -104,7 +104,7 @@ I’m deeply invested in expanding my knowledge and skills in the following area
 
 Here are some of the projects I've been working on:
 
-- **[ToDoGenie]([https://github.com/yourusername/project1](https://github.com/Tdas-christ/ToDoGenie))**  
+- **[ToDoGenie](https://github.com/yourusername/project1](https://github.com/Tdas-christ/ToDoGenie)**  
   Description: ToDoGenie is a task management app that uses text and voice input powered by Flask, SQLite, and Llama-3 70b for enhanced task descriptions.
 
 - **[Beyond Boundaries](https://github.com/Tdas-christ/Beyond-Boundaries)**  
