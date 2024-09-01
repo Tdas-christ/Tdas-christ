@@ -17,24 +17,26 @@ My passion for Artificial Intelligence, Machine Learning, and Data Science began
 - **Programming Languages:**
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- **Data Science:**
+- **Machine Learning:**
   - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+  - ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+
+- **Deep Learning:**
   - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
   - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-  - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
-  - ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+- **Natural Language Processing:**
   - ![nltk](https://img.shields.io/badge/-nltk-9FD400?style=flat&logo=nltk&logoColor=white)
   - ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-- **Data Visualization:**
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- **Computer Vision:**
+  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white
+  - ![PIL](https://img.shields.io/badge/-PIL-FF3C00?style=flat&logo=python&logoColor=white)
+  - ![Ultralytics](https://img.shields.io/badge/-Ultralytics-2C7B9B?style=flat&logo=yolov5&logoColor=white)
 
 - **Large Language Models (LLM):**
   - ![Transformers](https://img.shields.io/badge/-Transformers-F7DF1E?style=flat&logo=hugging-face&logoColor=white)
@@ -45,6 +47,10 @@ My passion for Artificial Intelligence, Machine Learning, and Data Science began
   - ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat&logo=rag&logoColor=white)
   - ![Ollama](https://img.shields.io/badge/-Ollama-FF4C29?style=flat&logo=ollama&logoColor=white)
 
+- **Data Visualization:**
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+    
 - **Database & Cloud:**
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -98,14 +104,11 @@ I’m deeply invested in expanding my knowledge and skills in the following area
 
 Here are some of the projects I've been working on:
 
-- **[Project 1: Your Project Title](https://github.com/yourusername/project1)**  
-  Description: Brief description of what the project does.
+- **[ToDoGenie]([https://github.com/yourusername/project1](https://github.com/Tdas-christ/ToDoGenie))**  
+  Description: ToDoGenie is a task management app that uses text and voice input powered by Flask, SQLite, and Llama-3 70b for enhanced task descriptions.
 
-- **[Project 2: Your Project Title](https://github.com/yourusername/project2)**  
-  Description: Brief description of what the project does.
-
-- **[Project 3: Your Project Title](https://github.com/yourusername/project3)**  
-  Description: Brief description of what the project does.
+- **[Beyond Boundaries](https://github.com/Tdas-christ/Beyond-Boundaries)**  
+  Description: Conducted research on various supervised classification algorithms to classify exoplanets as candidates or non-candidates using the NASA Kepler dataset.
 
 ---
 
