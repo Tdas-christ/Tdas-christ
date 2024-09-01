@@ -34,7 +34,7 @@ My passion for Artificial Intelligence, Machine Learning, and Data Science began
   - ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 
 - **Computer Vision:**
-  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white
+  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
   - ![PIL](https://img.shields.io/badge/-PIL-FF3C00?style=flat&logo=python&logoColor=white)
   - ![Ultralytics](https://img.shields.io/badge/-Ultralytics-2C7B9B?style=flat&logo=yolov5&logoColor=white)
 
@@ -104,7 +104,7 @@ I’m deeply invested in expanding my knowledge and skills in the following area
 
 Here are some of the projects I've been working on:
 
-- **[ToDoGenie](https://github.com/yourusername/project1](https://github.com/Tdas-christ/ToDoGenie)**  
+- **[ToDoGenie](https://github.com/Tdas-christ/ToDoGenie)**  
   Description: ToDoGenie is a task management app that uses text and voice input powered by Flask, SQLite, and Llama-3 70b for enhanced task descriptions.
 
 - **[Beyond Boundaries](https://github.com/Tdas-christ/Beyond-Boundaries)**  
