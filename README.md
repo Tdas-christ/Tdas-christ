@@ -109,6 +109,9 @@ Here are some of the projects I've been working on:
 - **[Beyond Boundaries](https://github.com/Tdas-christ/Beyond-Boundaries)**  
   Description: Conducted research on various supervised classification algorithms to classify exoplanets as candidates or non-candidates using the NASA Kepler dataset.
 
+- **[NikolAI](https://github.com/Tdas-christ/NikolAI)**
+  Description: NikolAI is an Emotion-Responsive Music Player that uses computer vision and deep learning to detect facial emotions in real time and recommend songs based on the detected emotion on Raspberry Pi.
+
 ---
 
 ### 📫 Let's Connect
