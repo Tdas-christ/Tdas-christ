@@ -116,7 +116,7 @@ Here are some of the projects I've been working on:
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tanisha-das-b61993222/)
+- **LinkedIn**: [Tanisha Das](https://www.linkedin.com/in/tanisha-das-b61993222/)
 - **Email**: tdas.tanisha@gmail.com
 
 ---
