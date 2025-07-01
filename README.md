@@ -15,7 +15,9 @@ Outside of tech, I’m a certified hobby collector: art, dance, music, reading�
 I’ve guided students in virtual classrooms, led student associations, managed finances, and even crafted social media strategies. Whether it’s mentoring, modelling (the ML kind), or mixing work with whimsy, I bring creativity, curiosity, and a touch of chaos to everything I do.
 
 Let’s connect—I’m always up for a good conversation or a cool project to collaborate on!
+
 Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-b61993222/
+
 ---
 
 ### 🔧 Skills
