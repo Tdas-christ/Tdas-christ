@@ -6,8 +6,16 @@ Aspiring AIML Engineer | Data Scientist
 
 ### 👨‍💻 About Me
 
-My passion for Artificial Intelligence, Machine Learning, and Data Science began with a deep curiosity about how machines can be taught to learn from data and make informed decisions. This curiosity quickly turned into a dedicated journey where I've been meticulously refining my skills to build intelligent systems. These systems are capable of analyzing and interpreting vast datasets, with a particular focus on the transformative power of Natural Language Processing and Computer Vision. Currently, I'm diving deep into the world of Large Language Models, exploring their immense potential to revolutionize the way we interact with technology. Currently, I'm diving deep into the world of Large Language Models, exploring their immense potential to revolutionize the way we interact with technology.
+👋 Hi there, I’m Tanisha — a 22-year-old human trying to navigate the corporate jungle. Adulting feels like soup, and I’m definitely the fork. But hey, I make it work.
 
+I recently graduated with a Master’s degree in Artificial Intelligence and Machine Learning from Christ University, where I spent my time building innovative models, geeking out over neural networks, and occasionally questioning the existence of the universe (thanks, quantum computing). My toolbox includes Python, TensorFlow, Keras, NLP, Computer Vision, and enough SQL to make any data spill its secrets. Currently, I work as an Asset Management Intern under the Chief Controls Office at HSBC.
+
+Outside of tech, I’m a certified hobby collector: art, dance, music, reading—you name it, I probably dabble in it. I do not play sports, unless you count competitive procrastination as a sport. I'm also learning Irish—because why not? One day, I hope to say "Dia dhuit, Ireland!" in person.
+
+I’ve guided students in virtual classrooms, led student associations, managed finances, and even crafted social media strategies. Whether it’s mentoring, modelling (the ML kind), or mixing work with whimsy, I bring creativity, curiosity, and a touch of chaos to everything I do.
+
+Let’s connect—I’m always up for a good conversation or a cool project to collaborate on!
+Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-b61993222/
 ---
 
 ### 🔧 Skills
