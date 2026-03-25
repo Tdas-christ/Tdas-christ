@@ -6,15 +6,15 @@ Aspiring AIML Engineer | Data Scientist
 
 ### 👨‍💻 About Me
 
-👋 Hi there, I’m Tanisha — a 22-year-old human trying to navigate the corporate jungle. Adulting feels like soup, and I’m definitely the fork. But hey, I make it work.
+👋 Hi there, I’m Tanisha - a confused adult in her 20's trying to navigate the corporate jungle. Adulting feels like soup, and I’m definitely the fork. But hey, I make it work.
 
-I recently graduated with a Master’s degree in Artificial Intelligence and Machine Learning from Christ University, where I spent my time building innovative models, geeking out over neural networks, and occasionally questioning the existence of the universe (thanks, quantum computing). My toolbox includes Python, TensorFlow, Keras, NLP, Computer Vision, and enough SQL to make any data spill its secrets. Currently, I work as an Asset Management Intern under the Chief Controls Office at HSBC.
+I graduated with a Master’s degree in Artificial Intelligence and Machine Learning from Christ University, where I spent my time building innovative models, geeking out over neural networks, and occasionally questioning the existence of the universe (thanks, quantum computing). I currently work as a Data Science Faculty at Alliance University. My toolbox includes Python, TensorFlow, Keras, NLP, Computer Vision, and enough SQL to make any data spill its secrets. I also worked as an Asset Management Intern at the Chief Controls Office, HSBC.
 
-Outside of tech, I’m a certified hobby collector: art, dance, music, reading—you name it, I probably dabble in it. I do not play sports, unless you count competitive procrastination as a sport. I'm also learning Irish—because why not? One day, I hope to say "Dia dhuit, Ireland!" in person.
+Outside of tech, I’m a certified hobby collector: art, dance, music, reading, you name it, I probably dabble in it. I do not play sports, unless you count competitive procrastination as a sport. I'm also learning Irish, because why not? One day, I hope to say "Dia duit, Ireland!" in person.
 
 I’ve guided students in virtual classrooms, led student associations, managed finances, and even crafted social media strategies. Whether it’s mentoring, modelling (the ML kind), or mixing work with whimsy, I bring creativity, curiosity, and a touch of chaos to everything I do.
 
-Let’s connect—I’m always up for a good conversation or a cool project to collaborate on!
+Let’s connect - I’m always up for a good conversation or a cool project to collaborate on!
 
 Here's the link to my LinkedIn Profile: https://www.linkedin.com/in/tanisha-das-b61993222/
 
